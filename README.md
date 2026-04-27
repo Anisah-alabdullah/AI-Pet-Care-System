@@ -30,13 +30,19 @@ This project is an AI-based application designed to identify pet breeds from ima
 
 ---
 
+
+
 ## 🖼️ Screenshots
 
+### 🏠 Home Interface
+![Home](IMG_0179.jpeg)
 
-![Home 1](image1.png)  
-![page2](image2.png)  
+### 🤖 Prediction Result
+![Prediction](IMG_0180.jpeg)
 
-![Code](code.png)
+### 💻 Code Example
+![Code](IMG_0181.jpeg)
+
 
 ---
 
